@@ -8,3 +8,4 @@ plate, or is that a myth?
 Unrelated Research Ideas
 ========================
 * Has the rise in framing importance caused a rise in catchers' interference?
+* Could you build a lower-cost pitch tracking system with off the shelf depth cameras?
